@@ -3,13 +3,13 @@ entries:
   guestbook:
   - apiVersion: v2
     appVersion: v4
-    created: "2022-05-20T13:41:24.566587405Z"
+    created: "2022-05-20T16:44:39.354032809Z"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
       version: 10.5.x
     description: A Helm chart for Kubernetes
-    digest: 373f734387702ce4e9ecf87f9eb6796db0363edefae025f63b2618976cb04690
+    digest: b0bd3f1b29047e3cf4a579a5b05c631a131031a5368eed308e9a64027131433f
     name: guestbook
     type: application
     urls:
@@ -18,9 +18,9 @@ entries:
   nginx:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-05-20T13:41:24.567196007Z"
+    created: "2022-05-20T16:44:39.354551229Z"
     description: A Helm chart for Kubernetes
-    digest: 920fc582a4c4c2e3066f44744d8aa3ff47716ad2483c4efaef674391ea181423
+    digest: 8f61a2c3e91e5ce240ad342a0b4c147860b2b7f0aa300c9c9e70a758e270b345
     maintainers:
     - name: PacktPublishing
     name: nginx
@@ -28,4 +28,4 @@ entries:
     urls:
     - nginx-1.0.0.tgz
     version: 1.0.0
-generated: "2022-05-20T13:41:24.471603217Z"
+generated: "2022-05-20T16:44:39.256793059Z"
